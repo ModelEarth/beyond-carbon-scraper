@@ -1,0 +1,46 @@
+from bs4 import BeautifulSoup
+from app.utils.fetcher import Fetcher
+import json
+import sys
+import itertools
+
+URL = "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_carbon_dioxide_emissions"
+
+def clean_text(str):
+    """ Removes repeated spaces, newlines, tabs, and nbsp entities."""
+    return " ".join(str.split()).replace(u'\xa0','')
+
+# https://stackoverflow.com/a/312464
+def chunks(lst, n):
+    """Yield successive n-sized chunks from lst."""
+    for i in range(0, len(lst), n):
+        yield lst[i:i + n]
+
+def scrape(fetcher):
+    text, status_code = fetcher.fetch(URL)
+    if status_code != 200:
+        return {'href': href, 'error': status_code}
+
+    soup = BeautifulSoup(text, 'html.parser')
+
+    headers = soup.select("#mw-content-text > div.mw-parser-output > table > tbody > tr > th")
+    titles = [clean_text(th.get_text()) for th in headers]
+
+    cells = soup.select("#mw-content-text > div.mw-parser-output > table > tbody > tr > td")
+    texts = [clean_text(td.get_text()) for td in cells]
+    rows = list(chunks(texts, len(titles)))
+
+    build_value = lambda row : {titles[index]:row[index] for index in range(len(titles))}
+    result = { row[1]:build_value(row) for row in rows}
+
+    return result
+
+def run(args):
+    fetcher = Fetcher(use_cache=args.use_cache, store_cache=args.store_cache)
+    scraped = scrape(fetcher)
+    fetcher.storeCache()
+
+    if args.out is None:
+        print(json.dumps(scraped, indent=2))
+    else:
+        json.dump(scraped, args.out, ensure_ascii=False)
