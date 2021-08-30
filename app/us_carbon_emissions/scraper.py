@@ -2,8 +2,6 @@ from bs4 import BeautifulSoup
 from app.utils.fetcher import Fetcher
 import re
 import json
-import sys
-import itertools
 
 URL = "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_carbon_dioxide_emissions"
 
