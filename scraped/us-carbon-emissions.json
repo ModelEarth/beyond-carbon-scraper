@@ -1,0 +1,582 @@
+{
+  "States, D.C. and territories total": {
+    "Rank": "-",
+    "Jurisdiction": "States, D.C. and territories total",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "5,158.54 [note 4]",
+    "Percentage of total emissions [note 2]": "100%",
+    "Population (estimate in 2017)[3]": "328,842,859 [note 5]",
+    "Percentage of total population[note 3]": "100%",
+    "CO2 emissions per capita(in metric tons)": "15.687 [note 6]",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "1.355"
+  },
+  "States and D.C. Total": {
+    "Rank": "-",
+    "Jurisdiction": "States and D.C. Total",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "5,133.4",
+    "Percentage of total emissions [note 2]": "99.51% [note 7]",
+    "Population (estimate in 2017)[3]": "325,122,128",
+    "Percentage of total population[note 3]": "98.87% [note 8]",
+    "CO2 emissions per capita(in metric tons)": "15.789",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "1.352"
+  },
+  "Texas": {
+    "Rank": "1",
+    "Jurisdiction": "Texas",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "706.5",
+    "Percentage of total emissions [note 2]": "13.7%",
+    "Population (estimate in 2017)[3]": "28,291,024",
+    "Percentage of total population[note 3]": "8.603%",
+    "CO2 emissions per capita(in metric tons)": "24.973",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "2.7"
+  },
+  "California": {
+    "Rank": "2",
+    "Jurisdiction": "California",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "358.6",
+    "Percentage of total emissions [note 2]": "7.0%",
+    "Population (estimate in 2017)[3]": "39,337,785",
+    "Percentage of total population[note 3]": "11.962%",
+    "CO2 emissions per capita(in metric tons)": "9.116",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "2.3"
+  },
+  "Florida": {
+    "Rank": "3",
+    "Jurisdiction": "Florida",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "226.6",
+    "Percentage of total emissions [note 2]": "4.4%",
+    "Population (estimate in 2017)[3]": "20,977,089",
+    "Percentage of total population[note 3]": "6.380%",
+    "CO2 emissions per capita(in metric tons)": "10.802",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "4.2"
+  },
+  "Louisiana": {
+    "Rank": "4",
+    "Jurisdiction": "Louisiana",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "226.4",
+    "Percentage of total emissions [note 2]": "4.4%",
+    "Population (estimate in 2017)[3]": "4,673,673",
+    "Percentage of total population[note 3]": "1.421%",
+    "CO2 emissions per capita(in metric tons)": "48.442",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "5.2"
+  },
+  "Pennsylvania": {
+    "Rank": "5",
+    "Jurisdiction": "Pennsylvania",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "215.3",
+    "Percentage of total emissions [note 2]": "4.2%",
+    "Population (estimate in 2017)[3]": "12,794,679",
+    "Percentage of total population[note 3]": "3.891%",
+    "CO2 emissions per capita(in metric tons)": "16.827",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "4.8"
+  },
+  "Ohio": {
+    "Rank": "6",
+    "Jurisdiction": "Ohio",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "204.3",
+    "Percentage of total emissions [note 2]": "4.0%",
+    "Population (estimate in 2017)[3]": "11,665,706",
+    "Percentage of total population[note 3]": "3.548%",
+    "CO2 emissions per capita(in metric tons)": "17.513",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "5.0"
+  },
+  "Illinois": {
+    "Rank": "7",
+    "Jurisdiction": "Illinois",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "201.1",
+    "Percentage of total emissions [note 2]": "3.9%",
+    "Population (estimate in 2017)[3]": "12,779,893",
+    "Percentage of total population[note 3]": "3.886%",
+    "CO2 emissions per capita(in metric tons)": "15.736",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "3.6"
+  },
+  "Indiana": {
+    "Rank": "8",
+    "Jurisdiction": "Indiana",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "175.8",
+    "Percentage of total emissions [note 2]": "3.4%",
+    "Population (estimate in 2017)[3]": "6,662,068",
+    "Percentage of total population[note 3]": "2.026%",
+    "CO2 emissions per capita(in metric tons)": "26.388",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "4.9"
+  },
+  "New York": {
+    "Rank": "9",
+    "Jurisdiction": "New York",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "156.7",
+    "Percentage of total emissions [note 2]": "3.0%",
+    "Population (estimate in 2017)[3]": "19,593,849",
+    "Percentage of total population[note 3]": "5.958%",
+    "CO2 emissions per capita(in metric tons)": "7.997",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "3.3"
+  },
+  "Michigan": {
+    "Rank": "10",
+    "Jurisdiction": "Michigan",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "151.8",
+    "Percentage of total emissions [note 2]": "2.9%",
+    "Population (estimate in 2017)[3]": "9,976,752",
+    "Percentage of total population[note 3]": "3.034%",
+    "CO2 emissions per capita(in metric tons)": "15.215",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "2.7"
+  },
+  "Georgia": {
+    "Rank": "11",
+    "Jurisdiction": "Georgia",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "131.9",
+    "Percentage of total emissions [note 2]": "2.6%",
+    "Population (estimate in 2017)[3]": "10,417,031",
+    "Percentage of total population[note 3]": "3.168%",
+    "CO2 emissions per capita(in metric tons)": "12.662",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "2.3"
+  },
+  "Missouri": {
+    "Rank": "12",
+    "Jurisdiction": "Missouri",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "122.4",
+    "Percentage of total emissions [note 2]": "2.4%",
+    "Population (estimate in 2017)[3]": "6,111,382",
+    "Percentage of total population[note 3]": "1.858%",
+    "CO2 emissions per capita(in metric tons)": "20.028",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "1.8"
+  },
+  "North Carolina": {
+    "Rank": "13",
+    "Jurisdiction": "North Carolina",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "115.0",
+    "Percentage of total emissions [note 2]": "2.2%",
+    "Population (estimate in 2017)[3]": "10,275,758",
+    "Percentage of total population[note 3]": "3.125%",
+    "CO2 emissions per capita(in metric tons)": "11.191",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "2.4"
+  },
+  "Kentucky": {
+    "Rank": "14",
+    "Jurisdiction": "Kentucky",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "113.6",
+    "Percentage of total emissions [note 2]": "2.2%",
+    "Population (estimate in 2017)[3]": "4,455,590",
+    "Percentage of total population[note 3]": "1.355%",
+    "CO2 emissions per capita(in metric tons)": "25.496",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "2.9"
+  },
+  "Alabama": {
+    "Rank": "15",
+    "Jurisdiction": "Alabama",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "108.3",
+    "Percentage of total emissions [note 2]": "2.1%",
+    "Population (estimate in 2017)[3]": "4,877,989",
+    "Percentage of total population[note 3]": "1.483%",
+    "CO2 emissions per capita(in metric tons)": "22.202",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "2.1"
+  },
+  "New Jersey": {
+    "Rank": "16",
+    "Jurisdiction": "New Jersey",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "101.0",
+    "Percentage of total emissions [note 2]": "2.0%",
+    "Population (estimate in 2017)[3]": "8,888,147",
+    "Percentage of total population[note 3]": "2.703%",
+    "CO2 emissions per capita(in metric tons)": "11.363",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "13.7"
+  },
+  "Virginia": {
+    "Rank": "17",
+    "Jurisdiction": "Virginia",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "97.9",
+    "Percentage of total emissions [note 2]": "1.9%",
+    "Population (estimate in 2017)[3]": "8,471,011",
+    "Percentage of total population[note 3]": "2.576%",
+    "CO2 emissions per capita(in metric tons)": "11.557",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "2.5"
+  },
+  "Tennessee": {
+    "Rank": "18",
+    "Jurisdiction": "Tennessee",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "97.6",
+    "Percentage of total emissions [note 2]": "1.9%",
+    "Population (estimate in 2017)[3]": "6,714,748",
+    "Percentage of total population[note 3]": "2.042%",
+    "CO2 emissions per capita(in metric tons)": "14.535",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "2.4"
+  },
+  "Wisconsin": {
+    "Rank": "19",
+    "Jurisdiction": "Wisconsin",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "97.6",
+    "Percentage of total emissions [note 2]": "1.9%",
+    "Population (estimate in 2017)[3]": "5,793,147",
+    "Percentage of total population[note 3]": "1.762%",
+    "CO2 emissions per capita(in metric tons)": "16.847",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "1.8"
+  },
+  "Oklahoma": {
+    "Rank": "20",
+    "Jurisdiction": "Oklahoma",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "92.7",
+    "Percentage of total emissions [note 2]": "1.8%",
+    "Population (estimate in 2017)[3]": "3,933,602",
+    "Percentage of total population[note 3]": "1.196%",
+    "CO2 emissions per capita(in metric tons)": "23.566",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "1.4"
+  },
+  "West Virginia": {
+    "Rank": "21",
+    "Jurisdiction": "West Virginia",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "90.8",
+    "Percentage of total emissions [note 2]": "1.8%",
+    "Population (estimate in 2017)[3]": "1,818,683",
+    "Percentage of total population[note 3]": "0.553%",
+    "CO2 emissions per capita(in metric tons)": "49.926",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "3.8"
+  },
+  "Minnesota": {
+    "Rank": "22",
+    "Jurisdiction": "Minnesota",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "87.9",
+    "Percentage of total emissions [note 2]": "1.7%",
+    "Population (estimate in 2017)[3]": "5,569,283",
+    "Percentage of total population[note 3]": "1.694%",
+    "CO2 emissions per capita(in metric tons)": "15.783",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "1.1"
+  },
+  "Colorado": {
+    "Rank": "23",
+    "Jurisdiction": "Colorado",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "87.0",
+    "Percentage of total emissions [note 2]": "1.7%",
+    "Population (estimate in 2017)[3]": "5,617,421",
+    "Percentage of total population[note 3]": "1.708%",
+    "CO2 emissions per capita(in metric tons)": "15.488",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "0.8"
+  },
+  "Arizona": {
+    "Rank": "24",
+    "Jurisdiction": "Arizona",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "85.6",
+    "Percentage of total emissions [note 2]": "1.7%",
+    "Population (estimate in 2017)[3]": "7,048,088",
+    "Percentage of total population[note 3]": "2.143%",
+    "CO2 emissions per capita(in metric tons)": "12.145",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "0.8"
+  },
+  "Washington": {
+    "Rank": "25",
+    "Jurisdiction": "Washington",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "78.2",
+    "Percentage of total emissions [note 2]": "1.5%",
+    "Population (estimate in 2017)[3]": "7,427,951",
+    "Percentage of total population[note 3]": "2.259%",
+    "CO2 emissions per capita(in metric tons)": "10.528",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "1.2"
+  },
+  "Iowa": {
+    "Rank": "26",
+    "Jurisdiction": "Iowa",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "76.3",
+    "Percentage of total emissions [note 2]": "1.5%",
+    "Population (estimate in 2017)[3]": "3,143,734",
+    "Percentage of total population[note 3]": "0.956%",
+    "CO2 emissions per capita(in metric tons)": "24.271",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "1.4"
+  },
+  "South Carolina": {
+    "Rank": "27",
+    "Jurisdiction": "South Carolina",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "68.8",
+    "Percentage of total emissions [note 2]": "1.4%",
+    "Population (estimate in 2017)[3]": "5,027,102",
+    "Percentage of total population[note 3]": "1.529%",
+    "CO2 emissions per capita(in metric tons)": "13.686",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "2.3"
+  },
+  "Mississippi": {
+    "Rank": "28",
+    "Jurisdiction": "Mississippi",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "67.4",
+    "Percentage of total emissions [note 2]": "1.3%",
+    "Population (estimate in 2017)[3]": "2,990,674",
+    "Percentage of total population[note 3]": "0.909%",
+    "CO2 emissions per capita(in metric tons)": "22.537",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "1.4"
+  },
+  "Arkansas": {
+    "Rank": "29",
+    "Jurisdiction": "Arkansas",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "63.9",
+    "Percentage of total emissions [note 2]": "1.2%",
+    "Population (estimate in 2017)[3]": "3,003,855",
+    "Percentage of total population[note 3]": "0.913%",
+    "CO2 emissions per capita(in metric tons)": "21.273",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "1.2"
+  },
+  "Massachusetts": {
+    "Rank": "30",
+    "Jurisdiction": "Massachusetts",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "63.3",
+    "Percentage of total emissions [note 2]": "1.2%",
+    "Population (estimate in 2017)[3]": "6,863,560",
+    "Percentage of total population[note 3]": "2.087%",
+    "CO2 emissions per capita(in metric tons)": "9.223",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "8.1"
+  },
+  "Wyoming": {
+    "Rank": "31",
+    "Jurisdiction": "Wyoming",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "60.6",
+    "Percentage of total emissions [note 2]": "1.2%",
+    "Population (estimate in 2017)[3]": "579,994",
+    "Percentage of total population[note 3]": "0.176%",
+    "CO2 emissions per capita(in metric tons)": "104.484",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "0.6"
+  },
+  "Kansas": {
+    "Rank": "32",
+    "Jurisdiction": "Kansas",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "57.9",
+    "Percentage of total emissions [note 2]": "1.1%",
+    "Population (estimate in 2017)[3]": "2,910,892",
+    "Percentage of total population[note 3]": "0.885%",
+    "CO2 emissions per capita(in metric tons)": "19.891",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "0.7"
+  },
+  "Utah": {
+    "Rank": "33",
+    "Jurisdiction": "Utah",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "58.2",
+    "Percentage of total emissions [note 2]": "1.1%",
+    "Population (estimate in 2017)[3]": "3,103,540",
+    "Percentage of total population[note 3]": "0.944%",
+    "CO2 emissions per capita(in metric tons)": "18.753",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "0.7"
+  },
+  "North Dakota": {
+    "Rank": "34",
+    "Jurisdiction": "North Dakota",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "56.2",
+    "Percentage of total emissions [note 2]": "1.1%",
+    "Population (estimate in 2017)[3]": "756,755",
+    "Percentage of total population[note 3]": "0.230%",
+    "CO2 emissions per capita(in metric tons)": "74.264",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "0.8"
+  },
+  "Maryland": {
+    "Rank": "35",
+    "Jurisdiction": "Maryland",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "51.6",
+    "Percentage of total emissions [note 2]": "1.0%",
+    "Population (estimate in 2017)[3]": "6,028,186",
+    "Percentage of total population[note 3]": "1.833%",
+    "CO2 emissions per capita(in metric tons)": "8.560",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "5.3"
+  },
+  "Nebraska": {
+    "Rank": "36",
+    "Jurisdiction": "Nebraska",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "47.7",
+    "Percentage of total emissions [note 2]": "0.9%",
+    "Population (estimate in 2017)[3]": "1,916,998",
+    "Percentage of total population[note 3]": "0.583%",
+    "CO2 emissions per capita(in metric tons)": "24.883",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "0.6"
+  },
+  "New Mexico": {
+    "Rank": "37",
+    "Jurisdiction": "New Mexico",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "48.7",
+    "Percentage of total emissions [note 2]": "0.9%",
+    "Population (estimate in 2017)[3]": "2,092,844",
+    "Percentage of total population[note 3]": "0.636%",
+    "CO2 emissions per capita(in metric tons)": "23.270",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "0.4"
+  },
+  "Oregon": {
+    "Rank": "38",
+    "Jurisdiction": "Oregon",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "38.3",
+    "Percentage of total emissions [note 2]": "0.7%",
+    "Population (estimate in 2017)[3]": "4,147,294",
+    "Percentage of total population[note 3]": "1.261%",
+    "CO2 emissions per capita(in metric tons)": "9.235",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "0.4"
+  },
+  "Nevada": {
+    "Rank": "39",
+    "Jurisdiction": "Nevada",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "36.2",
+    "Percentage of total emissions [note 2]": "0.7%",
+    "Population (estimate in 2017)[3]": "2,972,097",
+    "Percentage of total population[note 3]": "0.904%",
+    "CO2 emissions per capita(in metric tons)": "12.180",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "0.3"
+  },
+  "Alaska": {
+    "Rank": "40",
+    "Jurisdiction": "Alaska",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "34.1",
+    "Percentage of total emissions [note 2]": "0.7%",
+    "Population (estimate in 2017)[3]": "740,983",
+    "Percentage of total population[note 3]": "0.225%",
+    "CO2 emissions per capita(in metric tons)": "46.020",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "0.1"
+  },
+  "Connecticut": {
+    "Rank": "41",
+    "Jurisdiction": "Connecticut",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "33.4",
+    "Percentage of total emissions [note 2]": "0.6%",
+    "Population (estimate in 2017)[3]": "3,575,324",
+    "Percentage of total population[note 3]": "1.087%",
+    "CO2 emissions per capita(in metric tons)": "9.342",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "6.9"
+  },
+  "Montana": {
+    "Rank": "42",
+    "Jurisdiction": "Montana",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "30.3",
+    "Percentage of total emissions [note 2]": "0.6%",
+    "Population (estimate in 2017)[3]": "1,053,862",
+    "Percentage of total population[note 3]": "0.320%",
+    "CO2 emissions per capita(in metric tons)": "28.751",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "0.2"
+  },
+  "Puerto Rico": {
+    "Rank": "43",
+    "Jurisdiction": "Puerto Rico",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "19.8",
+    "Percentage of total emissions [note 2]": "0.4%",
+    "Population (estimate in 2017)[3]": "3,337,000",
+    "Percentage of total population[note 3]": "1.015%",
+    "CO2 emissions per capita(in metric tons)": "5.933",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "5.8"
+  },
+  "Idaho": {
+    "Rank": "44",
+    "Jurisdiction": "Idaho",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "18.4",
+    "Percentage of total emissions [note 2]": "0.4%",
+    "Population (estimate in 2017)[3]": "1,719,745",
+    "Percentage of total population[note 3]": "0.523%",
+    "CO2 emissions per capita(in metric tons)": "10.699",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "0.2"
+  },
+  "Hawaii": {
+    "Rank": "45",
+    "Jurisdiction": "Hawaii",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "17.6",
+    "Percentage of total emissions [note 2]": "0.3%",
+    "Population (estimate in 2017)[3]": "1,425,763",
+    "Percentage of total population[note 3]": "0.434%",
+    "CO2 emissions per capita(in metric tons)": "12.344",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "2.7"
+  },
+  "Maine": {
+    "Rank": "46",
+    "Jurisdiction": "Maine",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "15.4",
+    "Percentage of total emissions [note 2]": "0.3%",
+    "Population (estimate in 2017)[3]": "1,335,743",
+    "Percentage of total population[note 3]": "0.406%",
+    "CO2 emissions per capita(in metric tons)": "11.529",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "0.5"
+  },
+  "South Dakota": {
+    "Rank": "47",
+    "Jurisdiction": "South Dakota",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "14.5",
+    "Percentage of total emissions [note 2]": "0.3%",
+    "Population (estimate in 2017)[3]": "873,732",
+    "Percentage of total population[note 3]": "0.266%",
+    "CO2 emissions per capita(in metric tons)": "16.595",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "0.2"
+  },
+  "New Hampshire": {
+    "Rank": "48",
+    "Jurisdiction": "New Hampshire",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "13.4",
+    "Percentage of total emissions [note 2]": "0.3%",
+    "Population (estimate in 2017)[3]": "1,350,395",
+    "Percentage of total population[note 3]": "0.411%",
+    "CO2 emissions per capita(in metric tons)": "9.923",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "1.5"
+  },
+  "Delaware": {
+    "Rank": "49",
+    "Jurisdiction": "Delaware",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "12.3",
+    "Percentage of total emissions [note 2]": "0.2%",
+    "Population (estimate in 2017)[3]": "957,942",
+    "Percentage of total population[note 3]": "0.291%",
+    "CO2 emissions per capita(in metric tons)": "12.840",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "6.3"
+  },
+  "Rhode Island": {
+    "Rank": "50",
+    "Jurisdiction": "Rhode Island",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "10.0",
+    "Percentage of total emissions [note 2]": "0.2%",
+    "Population (estimate in 2017)[3]": "1,056,554",
+    "Percentage of total population[note 3]": "0.321%",
+    "CO2 emissions per capita(in metric tons)": "9.465",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "9.7"
+  },
+  "Vermont": {
+    "Rank": "51",
+    "Jurisdiction": "Vermont",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "5.8",
+    "Percentage of total emissions [note 2]": "0.1%",
+    "Population (estimate in 2017)[3]": "625,132",
+    "Percentage of total population[note 3]": "0.190%",
+    "CO2 emissions per capita(in metric tons)": "9.278",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "0.6"
+  },
+  "U.S. Virgin Islands": {
+    "Rank": "52",
+    "Jurisdiction": "U.S. Virgin Islands",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "2.76",
+    "Percentage of total emissions [note 2]": "0.05%",
+    "Population (estimate in 2017)[3]": "107,268",
+    "Percentage of total population[note 3]": "0.0326%",
+    "CO2 emissions per capita(in metric tons)": "25.730",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "20.5"
+  },
+  "District of Columbia": {
+    "Rank": "53",
+    "Jurisdiction": "District of Columbia",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "2.6",
+    "Percentage of total emissions [note 2]": "0.05%",
+    "Population (estimate in 2017)[3]": "697,079",
+    "Percentage of total population[note 3]": "0.212%",
+    "CO2 emissions per capita(in metric tons)": "3.730",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "42.6"
+  },
+  "Guam": {
+    "Rank": "54",
+    "Jurisdiction": "Guam",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "2.21",
+    "Percentage of total emissions [note 2]": "0.043%",
+    "Population (estimate in 2017)[3]": "164,281",
+    "Percentage of total population[note 3]": "0.050%",
+    "CO2 emissions per capita(in metric tons)": "13.453",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "10.5"
+  },
+  "American Samoa": {
+    "Rank": "55",
+    "Jurisdiction": "American Samoa",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "0.36",
+    "Percentage of total emissions [note 2]": "0.0070%",
+    "Population (estimate in 2017)[3]": "55,620",
+    "Percentage of total population[note 3]": "0.0169%",
+    "CO2 emissions per capita(in metric tons)": "6.472",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "4.7"
+  },
+  "Northern Mariana Islands": {
+    "Rank": "\u2014",
+    "Jurisdiction": "Northern Mariana Islands",
+    "Annual CO2 emissionsin 2017(in millions of metric tons)[1]": "No data",
+    "Percentage of total emissions [note 2]": "No data",
+    "Population (estimate in 2017)[3]": "56,562",
+    "Percentage of total population[note 3]": "0.0172%",
+    "CO2 emissions per capita(in metric tons)": "No data",
+    "Annual CO2 emissions in 2017 per 1000 sq. miles (in millions of metric tons)": "No data"
+  }
+}
