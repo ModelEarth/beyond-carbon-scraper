@@ -2,13 +2,23 @@ from bs4 import BeautifulSoup
 from app.utils.fetcher import Fetcher
 import re
 import json
+import functools
 
 URL = "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_carbon_dioxide_emissions"
 
 def clean_text(input):
-    """ Removes repeated spaces, newlines, tabs, nbsp entities, and non-alphanumerics characters
-    and converts the string to a number if appropriate."""
-    clean_string = re.sub(r'[^a-zA-Z0-9\. ]',"", " ".join(input.split()).replace(u'\xa0',''))
+    """
+    Removes repeated spaces, newlines, tabs, nbsp entities, and non-alphanumerics characters.
+    Removes wikipedia citation/note fields, which look like this: "[note xxx]"
+    Converts the string to a number if appropriate.
+    """
+
+    remove_notes = lambda s:re.sub(r'(\[note \d+\])',"", s)
+    remove_whitespace = lambda s:" ".join(s.split()).replace(u'\xa0','')
+    only_alnum = lambda s: re.sub(r'([^a-zA-Z0-9\. ])',"", s)
+
+    clean_string = functools.reduce( lambda s,f:f(s), [remove_notes, remove_whitespace, only_alnum], input)
+
     if clean_string.isdecimal():
         return int(clean_string)
     try:
