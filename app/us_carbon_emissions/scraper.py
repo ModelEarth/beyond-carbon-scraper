@@ -29,9 +29,7 @@ def scrape(fetcher):
 
     soup = BeautifulSoup(text, 'html.parser')
 
-    headers = soup.select("#mw-content-text > div.mw-parser-output > table > tbody > tr > th")
-    titles = [clean_text(th.get_text()) for th in headers]
-
+    titles =["CO2_rank", "jurisdiction", "CO2_emissions", "CO2_percent", "population", "population_percent", "CO2_per_capita", "CO2_per_1000_miles" ]
     cells = soup.select("#mw-content-text > div.mw-parser-output > table > tbody > tr > td")
     texts = [clean_text(td.get_text()) for td in cells]
     rows = list(chunks(texts, len(titles)))
