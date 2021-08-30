@@ -1,14 +1,22 @@
 from bs4 import BeautifulSoup
 from app.utils.fetcher import Fetcher
+import re
 import json
 import sys
 import itertools
 
 URL = "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_carbon_dioxide_emissions"
 
-def clean_text(str):
-    """ Removes repeated spaces, newlines, tabs, and nbsp entities."""
-    return " ".join(str.split()).replace(u'\xa0','')
+def clean_text(input):
+    """ Removes repeated spaces, newlines, tabs, nbsp entities, and non-alphanumerics characters
+    and converts the string to a number if appropriate."""
+    clean_string = re.sub(r'[^a-zA-Z0-9\. ]',"", " ".join(input.split()).replace(u'\xa0',''))
+    if clean_string.isdecimal():
+        return int(clean_string)
+    try:
+        return float(clean_string)
+    except:
+        return clean_string
 
 # https://stackoverflow.com/a/312464
 def chunks(lst, n):
