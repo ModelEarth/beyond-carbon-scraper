@@ -25,7 +25,7 @@ def chunks(lst, n):
 def scrape(fetcher):
     text, status_code = fetcher.fetch(URL)
     if status_code != 200:
-        return {'href': href, 'error': status_code}
+        return {'href': URL, 'error': status_code}
 
     soup = BeautifulSoup(text, 'html.parser')
 
