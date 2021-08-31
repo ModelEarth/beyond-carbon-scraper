@@ -1,12 +1,4 @@
 {
-  "": {
-    "juristiction": "",
-    "clean_energy_commitment": "Has [XX] committed to 100% clean energy?",
-    "clean_energy_target_percent": "What is [XX]'s current renewable or clean energy target?",
-    "carbon_pollution_reduction_goal_percent": "Does [XX] have a goal for reducing carbon pollution across the entire economy?",
-    "electric_vehicle_goals": "Does [XX] have goals or incentives for electric vehicles?",
-    "energy_efficency_rank": "How does [XX] compare when it comes to policies to save energy in buildings and vehicles?"
-  },
   "Alabama": {
     "juristiction": "Alabama",
     "clean_energy_commitment": "No",
@@ -926,3 +918,4 @@
     "CO2_per_1000_miles": 20.5
   }
 }
+
