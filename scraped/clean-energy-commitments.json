@@ -1,0 +1,458 @@
+{
+  "": {
+    "juristiction": "",
+    "clean_energy_commitment": "Has [XX] committed to 100% clean energy?",
+    "clean_energy_target_percent": "What is [XX]'s current renewable or clean energy target?",
+    "carbon_pollution_reduction_goal_percent": "Does [XX] have a goal for reducing carbon pollution across the entire economy?",
+    "electric_vehicle_goals": "Does [XX] have goals or incentives for electric vehicles?",
+    "energy_efficency_rank": "How does [XX] compare when it comes to policies to save energy in buildings and vehicles?"
+  },
+  "Alabama": {
+    "juristiction": "Alabama",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] does not have a mandatory renewable energy target.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 43rd by the American Council for an Energy-Efficient Economy."
+  },
+  "Alaska": {
+    "juristiction": "Alaska",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] does not have a mandatory renewable energy target.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 41st (tied with South Carolina) by the American Council for an Energy-Efficient Economy."
+  },
+  "American Samoa": {
+    "juristiction": "American Samoa",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] does not have a mandatory renewable energy target.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is not ranked by the American Council for an Energy-Efficient Economy."
+  },
+  "Arizona": {
+    "juristiction": "Arizona",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] has a target of 15% renewable or clean energy by 2025.",
+    "carbon_pollution_reduction_goal_percent": "[XX] has a nonbinding goal of a 50% reduction in carbon pollution below 2000 levels by 2040.",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 17th by the American Council for an Energy-Efficient Economy."
+  },
+  "Arkansas": {
+    "juristiction": "Arkansas",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] does not have a mandatory renewable energy target.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 34th by the American Council for an Energy-Efficient Economy."
+  },
+  "California": {
+    "juristiction": "California",
+    "clean_energy_commitment": "Yes&comma; [XX] has committed in law to 100% clean energy by 2045.",
+    "clean_energy_target_percent": "[XX] has a target of 100% renewable or clean energy by 2045.",
+    "carbon_pollution_reduction_goal_percent": "[XX] has a mandatory goal of an 80% reduction in carbon pollution below 1990 levels by 2050.",
+    "electric_vehicle_goals": "[XX] has a zero vehicle emissions mandate with a target that 22% of all new vehicles will be electric by 2025.",
+    "energy_efficency_rank": "[XX] is ranked 2nd by the American Council for an Energy-Efficient Economy."
+  },
+  "Colorado": {
+    "juristiction": "Colorado",
+    "clean_energy_commitment": "Your governor supports 100% clean energy&comma; but [XX] hasn't made it mandatory.",
+    "clean_energy_target_percent": "[XX] has a target of 30% renewable or clean energy by 2020.",
+    "carbon_pollution_reduction_goal_percent": "[XX] has legislated a goal of 90% reduction in carbon pollution by 2050.",
+    "electric_vehicle_goals": "[XX] is adopting a zero-emissions vehicle mandate of 22% of new vehicles being electric by 2025.",
+    "energy_efficency_rank": "[XX] is ranked 14th (tied with Maine) by the American Council for an Energy-Efficient Economy."
+  },
+  "Connecticut": {
+    "juristiction": "Connecticut",
+    "clean_energy_commitment": "Your governor supports 100% clean energy&comma; but [XX] hasn't made it mandatory.",
+    "clean_energy_target_percent": "[XX] has a target of 44% renewable or clean energy by 2030.",
+    "carbon_pollution_reduction_goal_percent": "[XX] has a nonbinding goal of an 80% reduction in carbon pollution below 2001 levels by 2050.",
+    "electric_vehicle_goals": "[XX] has a zero-emissions vehicle mandate of 22% of new vehicles being electric by 2025.",
+    "energy_efficency_rank": "[XX] is ranked 5th by the American Council for an Energy-Efficient Economy."
+  },
+  "Delaware": {
+    "juristiction": "Delaware",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] has a target of 25% renewable or clean energy by 2026.",
+    "carbon_pollution_reduction_goal_percent": "[XX] has a nonbinding goal of a 30% reduction in carbon pollution below 2008 levels by 2030.",
+    "electric_vehicle_goals": "[XX] has a low-emissions vehicle program which encourages electric vehicles but isn't as strong as a zero-emissions vehicle mandate.",
+    "energy_efficency_rank": "[XX] is ranked 22nd by the American Council for an Energy-Efficient Economy."
+  },
+  "District of Columbia": {
+    "juristiction": "District of Columbia",
+    "clean_energy_commitment": "Yes&comma; the District of Columbia has committed in law to 100% clean energy by 2032.",
+    "clean_energy_target_percent": "[XX] has a target of 100% renewable or clean energy by 2032",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 12th (tied with Illinois) by the American Council for an Energy-Efficient Economy."
+  },
+  "Florida": {
+    "juristiction": "Florida",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] does not have a mandatory renewable energy target.",
+    "carbon_pollution_reduction_goal_percent": "[XX] has a nonbinding goal of 80% reduction in carbon pollution below 1990 levels by 2050.",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 23rd by the American Council for an Energy-Efficient Economy."
+  },
+  "Georgia": {
+    "juristiction": "Georgia",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] does not have a mandatory renewable energy target.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 38th by the American Council for an Energy-Efficient Economy."
+  },
+  "Guam": {
+    "juristiction": "Guam",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] has a target of 25% renewable or clean energy by 2035.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is not ranked by the American Council for an Energy-Efficient Economy."
+  },
+  "Hawaii": {
+    "juristiction": "Hawaii",
+    "clean_energy_commitment": "Yes&comma; Hawaii has committed in law to 100% clean energy by 2045.",
+    "clean_energy_target_percent": "[XX] has a target of 100% renewable or clean energy by 2045.",
+    "carbon_pollution_reduction_goal_percent": "[XX] has a nonbinding goal to be carbon neutral by 2045.",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 16th by the American Council for an Energy-Efficient Economy."
+  },
+  "Idaho": {
+    "juristiction": "Idaho",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] does not have a mandatory renewable target.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 26th (tied with North Carolina and Virginia) by the American Council for an Energy-Efficient Economy."
+  },
+  "Illinois": {
+    "juristiction": "Illinois",
+    "clean_energy_commitment": "Your governor supports 100% clean energy&comma; but [XX] hasn't made it mandatory.",
+    "clean_energy_target_percent": "[XX] has a target of 25% renewable or clean energy by 2025-2026.",
+    "carbon_pollution_reduction_goal_percent": "[XX] has a nonbinding goal of 60% reduction in carbon pollution below 1990 levels by 2050.",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 12th (tied with the District of Columbia) by the American Council for an Energy-Efficient Economy."
+  },
+  "Indiana": {
+    "juristiction": "Indiana",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] has a target of 10% renewable or clean energy by 2025.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "Your state is ranked 40th by the American Council for an Energy-Efficient Economy."
+  },
+  "Iowa": {
+    "juristiction": "Iowa",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] has a target of 105 MW of electricity from renewable energy sources&comma; but generates a far larger amount of renewable energy.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 24th by the American Council for an Energy-Efficient Economy."
+  },
+  "Kansas": {
+    "juristiction": "Kansas",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] has a target of 20% renewable or clean energy by 2020.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 46th (tied with Louisiana and South Dakota) by the American Council for an Energy-Efficient Economy."
+  },
+  "Kentucky": {
+    "juristiction": "Kentucky",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] does not have a mandatory renewable energy target.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 29th (tied with Nevada&comma; Ohio&comma; and Wisconsin) by the American Council for an Energy-Efficient Economy."
+  },
+  "Louisiana": {
+    "juristiction": "Louisiana",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] does not have a mandatory renewable energy target.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 46th (tied with Kansas and South Dakota) by the American Council for an Energy-Efficient Economy."
+  },
+  "Maine": {
+    "juristiction": "Maine",
+    "clean_energy_commitment": "Your governor supports 100% clean energy&comma; but [XX] hasn't made it mandatory.",
+    "clean_energy_target_percent": "[XX] establsihed a target of 40% renewable or clean energy by 2017.*",
+    "carbon_pollution_reduction_goal_percent": "[XX] has a nonbinding goal of a 80% reduction in carbon pollution below 2003 levels.",
+    "electric_vehicle_goals": "[XX] has a zero-emissions vehicle mandate of 22% of new vehicles being electric by 2025.",
+    "energy_efficency_rank": "[XX] is ranked 14th (tied with Colorado) by the American Council for an Energy-Efficient Economy."
+  },
+  "Maryland": {
+    "juristiction": "Maryland",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] has a target of 25% renewable or clean energy by 2020.",
+    "carbon_pollution_reduction_goal_percent": "[XX] has a nonbinding goal of 40% reduction in carbon pollution below 2006 levels by 2030.",
+    "electric_vehicle_goals": "[XX] has a zero-emissions vehicle mandate of 22% of new vehicles being electric by 2025.",
+    "energy_efficency_rank": "[XX] is ranked 10th by the American Council for an Energy-Efficient Economy."
+  },
+  "Massachusetts": {
+    "juristiction": "Massachusetts",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] has a target of 35% renewable or clean energy by 2030.",
+    "carbon_pollution_reduction_goal_percent": "[XX] has a nonbinding goal of 80% reduction in carbon pollution below 1990 levels by 2050.",
+    "electric_vehicle_goals": "[XX] has a zero-emissions vehicle mandate of 22% of new vehicles being electric by 2025.",
+    "energy_efficency_rank": "[XX] is ranked 1st by the American Council for an Energy-Efficient Economy."
+  },
+  "Michigan": {
+    "juristiction": "Michigan",
+    "clean_energy_commitment": "Your governor supports 100% clean energy&comma; but [XX] hasn't made it mandatory.",
+    "clean_energy_target_percent": "[XX] has a target of 35% renewable or clean energy by 2025.",
+    "carbon_pollution_reduction_goal_percent": "[XX] has a nonbinding goal of 80% reduction in carbon pollution below 2005 levels by 2050.",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 11th by the American Council for an Energy-Efficient Economy."
+  },
+  "Minnesota": {
+    "juristiction": "Minnesota",
+    "clean_energy_commitment": "Your governor supports 100% clean energy&comma; but [XX] hasn't made it mandatory.",
+    "clean_energy_target_percent": "[XX] has a target of 25% renewable or clean energy by 2025.",
+    "carbon_pollution_reduction_goal_percent": "[XX] has a nonbinding goal of 80% reduction in carbon pollution below 2005 levels by 2050.",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 8th by the American Council for an Energy-Efficient Economy."
+  },
+  "Mississippi": {
+    "juristiction": "Mississippi",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] does not have a mandatory renewable energy target.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 44th (tied with Nebraska) by the American Council for an Energy-Efficient Economy."
+  },
+  "Missouri": {
+    "juristiction": "Missouri",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] has a target of 15% renewable or clean energy by 2021.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 33rd by the American Council for an Energy-Efficient Economy."
+  },
+  "Montana": {
+    "juristiction": "Montana",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] has a target of 15% renewable or clean energy by 2015.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 37th by the American Council for an Energy-Efficient Economy."
+  },
+  "Nebraska": {
+    "juristiction": "Nebraska",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] does not have a mandatory renewable energy target.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 44th (tied with Mississippi) by the American Council for an Energy-Efficient Economy."
+  },
+  "Nevada": {
+    "juristiction": "Nevada",
+    "clean_energy_commitment": "Your governor supports 100% clean energy&comma; but [XX] hasn't made it mandatory.",
+    "clean_energy_target_percent": "[XX] has a target of 50% renewable or clean energy by 2030.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 29th (tied with Kentucky&comma; Ohio&comma; and Wisconsin) by the American Council for an Energy-Efficient Economy."
+  },
+  "New Hampshire": {
+    "juristiction": "New Hampshire",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] has a target of 25.2% renewable or clean energy by 2025.",
+    "carbon_pollution_reduction_goal_percent": "[XX] has a nonbinding goal of a 80% reduction in carbon pollution below 1990 levels by 2050.",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 21st by the American Council for an Energy-Efficient Economy."
+  },
+  "New Jersey": {
+    "juristiction": "New Jersey",
+    "clean_energy_commitment": "Your governor supports 100% clean energy&comma; but [XX] hasn't made it mandatory.",
+    "clean_energy_target_percent": "[XX] has a target of 50% renewable or clean energy by 2030.",
+    "carbon_pollution_reduction_goal_percent": "[XX] has a nonbinding goal of 80% reduction in carbon pollution below 2006 levels by 2050.",
+    "electric_vehicle_goals": "New Jersey has a zero-emissions vehicle mandate of 22% of new vehicles being electric by 2025.",
+    "energy_efficency_rank": "[XX] is ranked 18th (tied with Pennsylvania) by the American Council for an Energy-Efficient Economy."
+  },
+  "New Mexico": {
+    "juristiction": "New Mexico",
+    "clean_energy_commitment": "Yes&comma; [XX] has committed in law to 100% clean energy by 2045.",
+    "clean_energy_target_percent": "[XX] has a target of 100% renewable or clean energy by 2045.",
+    "carbon_pollution_reduction_goal_percent": "[XX] has a nonbinding goal of a 45% reduction in carbon pollution below 2005 levels by 2030.",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 36th by the American Council for an Energy-Efficient Economy."
+  },
+  "New York": {
+    "juristiction": "New York",
+    "clean_energy_commitment": "Your governor supports 100% clean energy&comma; but [XX] hasn't made it mandatory.",
+    "clean_energy_target_percent": "[XX] has a target of 50% renewable or clean energy by 2030.",
+    "carbon_pollution_reduction_goal_percent": "[XX] has a nonbinding goal of 80% reduction in carbon pollution below 1990 levels by 2050.",
+    "electric_vehicle_goals": "[XX] has a zero-emissions vehicle mandate of 22% of new vehicles being electric by 2025.",
+    "energy_efficency_rank": "[XX] is ranked 6th by the American Council for an Energy-Efficient Economy."
+  },
+  "North Carolina": {
+    "juristiction": "North Carolina",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] has a target of 12.5% renewable or clean energy by 2021.",
+    "carbon_pollution_reduction_goal_percent": "[XX] has a nonbinding goal of a 40% reduction in carbon pollution below 2005 levels by 2025.",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 26th (tied with Idaho and Virginia) by the American Council for an Energy-Efficient Economy."
+  },
+  "North Dakota": {
+    "juristiction": "North Dakota",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] has a target of 10% renewable or clean energy by 2015.*",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 49th (tied with West Virginia) by the American Council for an Energy-Efficient Economy."
+  },
+  "Northern Mariana Islands": {
+    "juristiction": "Northern Mariana Islands",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] has a target of 20% renewable or clean energy by 2016.*",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is not ranked by the American Council for an Energy-Efficient Economy."
+  },
+  "Ohio": {
+    "juristiction": "Ohio",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] has a target of 12.5% renewable or clean energy by 2026.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 29th (tied with Kentucky&comma; Nevada&comma; and Wisconsin) by the American Council for an Energy-Efficient Economy."
+  },
+  "Oklahoma": {
+    "juristiction": "Oklahoma",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] has a target of 15% renewable or clean energy by 2015. *",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 39th by the American Council for an Energy-Efficient Economy."
+  },
+  "Oregon": {
+    "juristiction": "Oregon",
+    "clean_energy_commitment": "Your governor supports 100% clean energy&comma; but [XX] hasn't made it mandatory.",
+    "clean_energy_target_percent": "[XX] has a target of 50% renewable or clean energy by 2040.",
+    "carbon_pollution_reduction_goal_percent": "[XX] has a nonbinding goal of a 75% reduction in carbon pollution below 1990 levels by 2050.",
+    "electric_vehicle_goals": "[XX] has a zero-emissions vehicle mandate of 22% of new vehicles being electric by 2025.",
+    "energy_efficency_rank": "[XX] is ranked 7th by the American Council for an Energy-Efficient Economy."
+  },
+  "Pennsylvania": {
+    "juristiction": "Pennsylvania",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] has a target of 18% renewable or clean energy by 2021.",
+    "carbon_pollution_reduction_goal_percent": "[XX] has a nonbinding goal of a 80% reduction in carbon pollution below 2005 levels by 2025.",
+    "electric_vehicle_goals": "[XX] has low-emissions vehicle program&comma; which encourages electric vehicles but isn't as strong as a zero-emissions vehicle mandate.",
+    "energy_efficency_rank": "[XX] is ranked 18th (tied with New Jersey) by the American Council for an Energy-Efficient Economy."
+  },
+  "Puerto Rico": {
+    "juristiction": "Puerto Rico",
+    "clean_energy_commitment": "Yes&comma; [XX] has committed in law to 100% clean energy by 2050.",
+    "clean_energy_target_percent": "[XX] has a target of 100% renewable or clean energy by 2050.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is not ranked by the American Council for an Energy-Efficient Economy."
+  },
+  "Rhode Island": {
+    "juristiction": "Rhode Island",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] has a target of 38.5% renewable or clean energy by 2035.",
+    "carbon_pollution_reduction_goal_percent": "[XX] has a nonbinding goal of a 80% reduction in carbon pollution below 1990 levels by 2050.",
+    "electric_vehicle_goals": "[XX] has a zero-emissions vehicle mandate of 22% of new vehicles being electric by 2025.",
+    "energy_efficency_rank": "[XX] is ranked 3rd by the American Council for an Energy-Efficient Economy."
+  },
+  "South Carolina": {
+    "juristiction": "South Carolina",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] has a target of 2% renewable or clean energy by 2021.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 41st (tied with Alaska) by the American Council for an Energy-Efficient Economy."
+  },
+  "South Dakota": {
+    "juristiction": "South Dakota",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] has a target of 10% renewable or clean energy by 2015.*",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 46th (tied with Kansas and Louisiana) by the American Council for an Energy-Efficient Economy."
+  },
+  "Tennessee": {
+    "juristiction": "Tennessee",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] does not have a mandatory renewable energy target",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 35th by the American Council for an Energy-Efficient Economy."
+  },
+  "Texas": {
+    "juristiction": "Texas",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] has a target of 10&comma;000 MW of renewable energy capacity by 2025.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 25th by the American Council for an Energy-Efficient Economy."
+  },
+  "US Virgin Islands": {
+    "juristiction": "US Virgin Islands",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] has a target of 51% renewable or clean energy by 2025.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is not ranked by the American Council for an Energy-Efficient Economy."
+  },
+  "Utah": {
+    "juristiction": "Utah",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] has a target of 20% renewable or clean energy by 2025.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 20th by the American Council for an Energy-Efficient Economy."
+  },
+  "Vermont": {
+    "juristiction": "Vermont",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] has a target of 75% renewable or clean energy by 2032.",
+    "carbon_pollution_reduction_goal_percent": "[XX] has a nonbinding goal of a 90% reduction in carbon pollution below 1990 levels by 2050.",
+    "electric_vehicle_goals": "[XX] has a zero-emissions vehicle mandate of 22% of new vehicles being electric by 2025.",
+    "energy_efficency_rank": "[XX] is ranked 4th by the American Council for an Energy-Efficient Economy."
+  },
+  "Virginia": {
+    "juristiction": "Virginia",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] has a target of 15% renewable or clean energy by 2025.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 26th (tied with Idaho and North Carolina) by the American Council for an Energy-Efficient Economy."
+  },
+  "Washington": {
+    "juristiction": "Washington",
+    "clean_energy_commitment": "Yes&comma; [XX] has committed in law to 100% clean energy by 2045.",
+    "clean_energy_target_percent": "[XX] has target of 100% clean energy by 2045.",
+    "carbon_pollution_reduction_goal_percent": "[XX] has a nonbinding goal of a 50% reduction in carbon pollution below 1990 levels by 2050.",
+    "electric_vehicle_goals": "[XX] has low-emissions vehicle program&comma; which encourages electric vehicles but isn't as strong as a zero-emissions vehicle mandate.",
+    "energy_efficency_rank": "[XX] is ranked 9th by the American Council for an Energy-Efficient Economy."
+  },
+  "West Virginia": {
+    "juristiction": "West Virginia",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] has a target of 25% renewable or clean energy by 2025.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 49th (tied with North Dakota) by the American Council for an Energy-Efficient Economy."
+  },
+  "Wisconsin": {
+    "juristiction": "Wisconsin",
+    "clean_energy_commitment": "Your governor supports 100% clean energy&comma; but [XX] hasn't made it mandatory.",
+    "clean_energy_target_percent": "[XX] has a target of 10% renewable or clean energy by 2015.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX] is ranked 29th (tied with Kentucky&comma; Nevada&comma; and Ohio) by the American Council for an Energy-Efficient Economy."
+  },
+  "Wyoming": {
+    "juristiction": "Wyoming",
+    "clean_energy_commitment": "No",
+    "clean_energy_target_percent": "[XX] does not have a mandatory renewable energy target.",
+    "carbon_pollution_reduction_goal_percent": "No",
+    "electric_vehicle_goals": "No",
+    "energy_efficency_rank": "[XX]is ranked 51st by the American Council for an Energy-Efficient Economy."
+  }
+}
