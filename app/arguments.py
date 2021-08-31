@@ -26,4 +26,10 @@ def parse(args):
     group.add_argument(
         '--store-cache', dest='store_cache', type=argparse.FileType('w', encoding='UTF-8'), help='store HTML into this file')
 
+    parser_3 = subparser.add_parser(
+        'fuse', description="Fuse scraped data into one object")
+    parser_3.add_argument(
+        '--out', dest="out", default=None, type=argparse.FileType('w', encoding='UTF-8'), help="save output here.")
+    parser_3.add_argument('files', type=argparse.FileType('r'), nargs='+')
+
     return parser.parse_args(args)
