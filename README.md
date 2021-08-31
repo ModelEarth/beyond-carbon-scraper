@@ -1,21 +1,21 @@
-# Carbon Emissions Scraper
+# Beyond Carbon Scraper and Fuser
 
-Get the most recent [scraped data here](scraped/us-carbon-emissions.json).
+Get the most recent [scraped and fused data here](fused/result.json).
 
-For self-hosting you have two options:
-
-## Run in a container
-
-`docker run abriedev/carbon-emissions-scraper scrape`
-
-Save output to a .json file in your root folder
-
-`docker run abriedev/carbon-emissions-scraper scrape > name-of-output-file.json`
-
-## Build from source
+## Build And Run From Source
 
 __Requires Python 3.8__
 
 1. `make dependencies`
 2. `make test`
-3. `python3 -m app scrape`
+3. `make scrape-and-fuse`
+
+## Run Using Docker
+
+This is a bit tedious:
+
+1. `docker run abriedev/carbon-emissions-scraper scrape_us_carbon_emissions > us_carbon_emissions.json`
+2. `docker run abriedev/carbon-emissions-scraper scrape_clean_energy_commitments > clean_energy_commitments.json`
+3. `docker run abriedev/carbon-emissions-scraper fuse us_carbon_emissions.json clean_energy_commitments > fused.json`
+
+
