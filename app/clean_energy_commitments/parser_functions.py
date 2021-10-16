@@ -1,3 +1,5 @@
+import re
+
 def get_percent(text):
     """
     Return digits labeled with %sign in a string, including possible decimal point
