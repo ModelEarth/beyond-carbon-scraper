@@ -12,7 +12,7 @@ def scrape(fetcher):
     if status_code != 200:
         return {'href': URL, 'error': status_code}
 
-    titles = ["juristiction","clean_energy_commitment","clean_energy_target_percent","carbon_pollution_reduction_goal_percent","electric_vehicle_goals","energy_efficency_rank"]
+    titles = ["jurisdiction","clean_energy_commitment","clean_energy_target_percent","carbon_pollution_reduction_goal_percent","electric_vehicle_goals","energy_efficiency_rank"]
 
     build_value = lambda row : {titles[index]:row[index] for index in range(len(titles))}
 
