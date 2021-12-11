@@ -62,9 +62,9 @@ def clean_energy_commit(text):
         pct = get_percent(text) 
         by_yr = get_goal_year(text)
         if re.search(r'(governor)', text):
-            return {'commitment':'Governor', 'mandatory':False, 'percent':pct, 'by_year':by_yr}
+            return {'CE_CMT_commitment':'Governor', 'CE_CMT_mandatory':False, 'CE_CMT_percent':pct, 'CE_CMT_by_year':by_yr}
         else:
-            return {'commitment':'Law', 'mandatory':True, 'percent':pct, 'by_year':by_yr}
+            return {'CE_CMT_commitment':'Law', 'CE_CMT_mandatory':True, 'CE_CMT_percent':pct, 'CE_CMT_by_year':by_yr}
         
 def clean_energy_target_pct(text):
     """
@@ -75,17 +75,17 @@ def clean_energy_target_pct(text):
     A couple of odd rows: targets in MW instead of %, one 'establsihed a target' as opposed to 'has a target'
     """
     if re.search(r'(does not have)', text):
-        return {'CE_target':False}
+        return {'CE_TGT_target':False}
     elif re.search(r'(MW)', text):
         # correct for encoded comma
         clean = re.sub(r'&comma;', '', text)
         MW = re.search(r'(\d+) MW', clean)
         by_yr = get_goal_year(text)
-        return {'CE_target':True, 'MW_target':True, 'MW':MW.group(), 'pct_target':False, 'percent':False, 'by_year':by_yr}
+        return {'CE_TGT_target':True, 'CE_TGT_MW_target':True, 'CE_TGT_MW':MW.group(), 'CE_TGT_pct_target':False, 'CE_TGT_percent':False, 'CE_TGT_by_year':by_yr}
     else:
         pct = get_percent(text)
         by_yr = get_goal_year(text)
-        return {'CE_target':True, 'MW_target':False, 'MW':False, 'pct_target':True, 'percent':pct, 'by_year':by_yr}
+        return {'CE_TGT_target':True, 'CE_TGT_MW_target':False, 'CE_TGT_MW':False, 'CE_TGT_pct_target':True, 'CE_TGT_percent':pct, 'CE_TGT_by_year':by_yr}
     
 def carbon_reduction_goal_pct(text):
     """
@@ -106,11 +106,11 @@ def carbon_reduction_goal_pct(text):
         ref_yr = get_reference_year(text)
         by_yr = get_goal_year(text)
         if re.search(r'(nonbinding)', text):
-            return {'CPR_goal':True, 'mandatory':False, 'percent':pct, 'carbon_neutral':cn, 
-                    'reference_year':ref_yr, 'by_year':by_yr}
+            return {'CPR_goal':True, 'CPR_mandatory':False, 'CPR_percent':pct, 'CPR_carbon_neutral':cn, 
+                    'CPR_reference_year':ref_yr, 'CPR_by_year':by_yr}
         else:
-            return {'CPR_goal':True, 'mandatory':True, 'percent':pct, 'carbon_neutral':cn, 
-                    'reference_year':ref_yr, 'by_year':by_yr}
+            return {'CPR_goal':True, 'CPR_mandatory':True, 'CPR_percent':pct, 'CPR_carbon_neutral':cn, 
+                    'CPR_reference_year':ref_yr, 'CPR_by_year':by_yr}
 
 def elec_vehicle_goals(text):
     """
@@ -127,9 +127,9 @@ def elec_vehicle_goals(text):
         pct = get_percent(text)
         by_yr = get_goal_year(text)
         if re.search(r'(low)', text):
-            return {'EV_goal':True, 'mandatory':False, 'percent':pct, 'by_year':by_yr}
+            return {'EV_goal':True, 'EV_mandatory':False, 'EV_percent':pct, 'EV_by_year':by_yr}
         else:
-            return {'EV_goal':True, 'mandatory':True, 'percent':pct, 'by_year':by_yr}
+            return {'EV_goal':True, 'EV_mandatory':True, 'EV_percent':pct, 'EV_by_year':by_yr}
 
 # my instinct is that this is going to do a bunch of repeated searching. 
 # Not sure how to make it more efficient, or if it's really feasible.
