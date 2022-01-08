@@ -38,7 +38,6 @@ def row_parser(row):
     )
     row_dict.update(pf.elec_vehicle_goals(row_dict["electric_vehicle_goals"]))
     row_dict.pop("jurisdiction", None)
-    print(row_dict)
     return row_dict
 
 
